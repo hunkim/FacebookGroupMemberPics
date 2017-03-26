@@ -1,0 +1,4 @@
+<?php
+const FB_GROUP_ID = '255834461424286';
+const FB_ACCESS_TOKEN ="your token";
+?>
